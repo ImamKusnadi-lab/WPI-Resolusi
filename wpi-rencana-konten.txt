@@ -1,6 +1,8 @@
 Rencana Konten WPI
 - Visual Basic .NET Framework
   * Framework Visual Basic .NET
+    * Namespace
+    * While Loop
   * Aplikasi Desktop dan Website
   * Fundamental Data Structure
 - Video PHP Framework
