@@ -1,5 +1,7 @@
 Rencana Konten WPI
-- Visual Basic
+- Visual Basic .NET Framework
+  * Framework Visual Basic .NET
+  * Aplikasi Desktop dan Website
 - Video PHP Framework
 - Java
 - vlog
