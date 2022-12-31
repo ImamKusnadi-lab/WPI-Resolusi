@@ -1,8 +1,11 @@
 Rencana Konten WPI
 - Visual Basic .NET Framework
   * Framework Visual Basic .NET
+    * IColllection
+    * Generic
   * Aplikasi Desktop dan Website
   * Fundamental Data Structure
 - Video PHP Framework
 - Java
 - vlog
+- Python 
